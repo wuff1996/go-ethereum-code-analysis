@@ -41,7 +41,7 @@
 
 ![image](picture/sign_placeholder_2.png) Value representative of the object to be modified
 ![image](picture/sign_placeholder_3.png) intermediate state
-![image](picture/sign_placeholder_4.png) 中间状态 2
+![image](picture/sign_placeholder_4.png) midstate 2
 ![image](picture/sign_func_1.png) ![image](picture/sign_func_2.png) intermediate state 2
 if the previous f represents a function, f \* represents the back of a similar function, but a function f is sequentially executed for the inner elements.
 
